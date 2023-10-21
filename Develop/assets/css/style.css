@@ -59,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Image postion for SEO and Social Media Marketing sections in webpage body */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Image postion for Online Reputation Management section in webpage body */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Sets display blocks for topics */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Sets display block design for benefits listed on the right of the webpage in the body */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,7 +86,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* combine below 3 into one */
+/* Text color and spacing between benefits within section */
+/* Combine with */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +102,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* 3 below are the same, combine into one */
+/* benefit-header? */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -116,7 +117,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-/* combine below three into one class */
+/* benefit-img? */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
