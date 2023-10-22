@@ -123,14 +123,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Specs for footer text style, position, and display area size */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Text size for footer header */
 .footer h2 {
     font-size: 20px;
 }
