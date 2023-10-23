@@ -2,7 +2,7 @@
 
 ## Description
 
-I have taken the pre-existing website for Horiseon and added accessibility feature to the HTML code. This includes descriptive alt text for all images and an updated website title. Additionaly, the CSS code has been consolodated to avoid redundancy, and the HTML code has been updated to properly reflect these consolidations whole functioning proprely. CSS comments were also added for further clarification.
+I have taken the pre-existing website for Horiseon and added accessibility feature to the HTML code. This includes descriptive alt text for all images and an updated website title. Additionaly, the CSS code has been consolidated to avoid redundancy, and the HTML code has been updated to properly reflect these consolidations whole functioning proprely. CSS comments were also added for further clarification.
 
 ## Installation
 
